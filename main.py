@@ -3,7 +3,7 @@ import telebot
 from telebot.types import  ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 from datetime import timedelta
 import json
-TOKEN = '5408793129:AAFSTsOIRhxCwZ9PJw7jFiX4dbdK7e2HraQ'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 animeData = {}
 page = 0
